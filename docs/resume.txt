@@ -1,0 +1,83 @@
+Matt Westervelt
+
+Contact Information:
+206-335-1440
+mattw@metrix.net
+
+------------------------------------
+
+
+Professional Experience:
+
+
+OctoML
+Staff Infrastructure Engineer | Jun 2021 - Apr 2023
+- Responsible for creating the Edge Fleet for SaaS product, encompassing development, staging, and production environments.
+- Created automated setup and configuration of on-prem AI/ML hardware.
+- Created scripted update and configuration management using Ansible.
+- Collaborated with the product team to enhance fleet functionality and security.
+- Assisted IT/Operations with firewall and network, datacenter operations, Initial SOC2 audit
+- Managed procurement during global supply shortages and developed solutions for using on-demand compute.
+
+
+Intel Corporation
+Build Engineer | Sep 2018 - May 2021
+- Managed CI/infrastructure and developer environments for the advanced compiler architecture team in the AI Platforms Group.
+- Responsible for the buildout of the Seattle ML Compiler lab.
+- Build tools consisted of Python, Ansible, Bazel, and Buildkite.
+
+
+Metrix Communication LLC (Owner) | Feb 2004 - Sep 2018
+- Founded and led a company supplying Community Wireless Networks, Wireless ISPs, and Hotspot Operators.
+- Developed the Metrix Kit, an open Linux platform for outdoor wireless environments.
+- Managed and maintained our own Linux-based image (Pyramid) with interface and captive portal for hotspot or mesh networking.
+- Communicated effectively with vendors, distributors, and customers.
+
+
+Metrix Create:Space (Owner) | Oct 2009 - Aug 2018
+- Conceived of, opened and operated a public hacker/makerspace with advanced fabrication capabilities.
+- Pioneered early advancements in 3D printing technology, contributing to the RepRap open-source project.
+- Developed and built open hardware 3D printer controllers, showcasing expertise in hardware innovation and open-source technology.
+- Invited to the White House to represent the makerspace community, demonstrating leadership and advocacy in the maker movement.
+- Presented 3D printing technologies at the House of Representatives, demonstrating the technology as  early discussions on intellectual property and 3D printing were in committee.
+- Fostered an entrepreneurial hardware community with classes, services, meet ups and group projects.
+- Worked with employees and customers on kickstarter projects, starting new businesses.
+- Managed all aspects of the business, including IT infrastructure, managing employees, customer projects, and capability upgrades.
+
+
+SeattleWireless.NET (Founder) | Jun 2000 - Jan 2011
+- Founded a not-for-profit project to create a Community Wireless Network in Seattle.
+- Managed internet presence and network services.
+- Acted as the primary spokesperson and press contact, effectively communicating the project’s goals and achievements to a wide audience, including media. Achieved notable press coverage, including a feature in the business section of The New York Times and an article in Le Monde, which was later reprinted with photos in their magazine.
+- Liaised with city government, fostering collaborative relationships and advocating for the FreeNetworks movement, demonstrating strong networking and negotiation skills.
+- Coordinated monthly meetings, weekly work nights, and multi-city summits.
+- Led technical initiatives, including documentation, custom configuration of embedded systems, reverse-engineering, site surveys, and installations, emphasizing hands-on networking expertise.
+
+
+RealNetworks, Inc
+Systems Administrator / Applications Engineer | Jul 2000 - Jan 2004
+- Part of the Development Services Group, managing CVS, GNATS, DNS, and build systems across all UNIX variants, including Windows and MacOS.
+- Developed custom applications in Python and participated in internal security team for forensic analysis.
+
+
+Additional Roles:
+- Software Test Engineer / Lab Manager at RealNetworks, Inc.
+- Test Analyst at Systems Integrations Solutions.
+- Engineer at Appliant Inc.
+- Software Quality Engineer at Critical Path Inc.
+- Integration Test Engineer at Microsoft.
+- Chief Technical Officer at Metrix Communications Inc.
+
+
+------------------------------------
+
+
+Skills:
+- Vendor Relations
+- Communication
+- Budgeting
+- Wireless Networking
+- Networking
+- Linux / Unix
+- Firewalls
+- Hardware
