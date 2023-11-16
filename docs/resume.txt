@@ -37,8 +37,9 @@ Metrix Communication LLC (Owner) | Feb 2004 - Sep 2018
 Metrix Create:Space (Owner) | Oct 2009 - Aug 2018
 - Conceived of, opened and operated a public hacker/makerspace with advanced fabrication capabilities.
 - Pioneered early advancements in 3D printing technology, contributing to the RepRap open-source project.
-- Developed and built open hardware 3D printer controllers, showcasing expertise in hardware innovation and open-source technology.
-- Invited to the White House to represent the makerspace community, demonstrating leadership and advocacy in the maker movement.
+- Collaborated with UW Mech Sci dept on reprap fork Clonedel.
+- Developed and manufactured open hardware 3D printer controllers to drive cost of 3D printers down and grow open3dp community.
+- Invited to the White House for Nation of Makers, an event by the office of science and technology policy (OSTP) to discuss makerspaces in the USA. 
 - Presented 3D printing technologies at the House of Representatives, demonstrating the technology as  early discussions on intellectual property and 3D printing were in committee.
 - Fostered an entrepreneurial hardware community with classes, services, meet ups and group projects.
 - Worked with employees and customers on kickstarter projects, starting new businesses.
@@ -49,7 +50,7 @@ SeattleWireless.NET (Founder) | Jun 2000 - Jan 2011
 - Founded a not-for-profit project to create a Community Wireless Network in Seattle.
 - Managed internet presence and network services.
 - Acted as the primary spokesperson and press contact, effectively communicating the project’s goals and achievements to a wide audience, including media. Achieved notable press coverage, including a feature in the business section of The New York Times and an article in Le Monde, which was later reprinted with photos in their magazine.
-- Liaised with city government, fostering collaborative relationships and advocating for the FreeNetworks movement, demonstrating strong networking and negotiation skills.
+- Liaised with city government, fostered collaborative relationships and advocated for the FreeNetworks movement.
 - Coordinated monthly meetings, weekly work nights, and multi-city summits.
 - Led technical initiatives, including documentation, custom configuration of embedded systems, reverse-engineering, site surveys, and installations, emphasizing hands-on networking expertise.
 
