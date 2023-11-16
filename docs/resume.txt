@@ -37,7 +37,7 @@ Metrix Communication LLC (Owner) | Feb 2004 - Sep 2018
 Metrix Create:Space (Owner) | Oct 2009 - Aug 2018
 - Conceived of, opened and operated a public hacker/makerspace with advanced fabrication capabilities.
 - Pioneered early advancements in 3D printing technology, contributing to the RepRap open-source project.
-- Collaborated with UW Mech Sci dept on reprap fork Clonedel.
+- Collaborated with UW Mech Engineering dept on reprap fork Clonedel.
 - Developed and manufactured open hardware 3D printer controllers to drive cost of 3D printers down and grow open3dp community.
 - Invited to the White House for Nation of Makers, an event by the office of science and technology policy (OSTP) to discuss makerspaces in the USA. 
 - Presented 3D printing technologies at the House of Representatives, demonstrating the technology as early discussions on intellectual property and 3D printing were in committee.
