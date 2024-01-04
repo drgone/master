@@ -41,6 +41,7 @@ Metrix Create:Space (Owner) | Oct 2009 - Aug 2018
 - Developed and manufactured open hardware 3D printer controllers to drive cost of 3D printers down and grow open3dp community.
 - Invited to the White House for Nation of Makers, an event by the office of science and technology policy (OSTP) to discuss makerspaces in the USA. 
 - Presented 3D printing technologies at the House of Representatives, demonstrating the technology as early discussions on intellectual property and 3D printing were in committee.
+- Awarded DARPA Cyber Fast Track grant, presented work at Pengtagon demo day.
 - Fostered an entrepreneurial hardware community with classes, services, meet ups and group projects.
 - Worked with employees and customers on kickstarter projects, starting new businesses.
 - Managed all aspects of the business, including IT infrastructure, managing employees, customer projects, and capability upgrades.
