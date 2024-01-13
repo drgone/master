@@ -22,7 +22,7 @@ Staff Infrastructure Engineer | Jun 2021 - Apr 2023
 
 Intel Corporation
 Build Engineer | Sep 2018 - May 2021
-- Managed CI/infrastructure and developer environments for the advanced compiler architecture team in the AI Platforms Group.
+- Managed CI/infrastructure, perf test, and dev environments for the advanced compiler architecture team in the AI Platforms Group.
 - Responsible for the buildout of the Seattle ML Compiler lab.
 - Build tools consisted of Python, Ansible, Bazel, and Buildkite.
 
